@@ -8,3 +8,8 @@ Questo repository è un template, creato a partire da esperienze precedenti, com
   * nel formato Frictionless data
 * in modo da poter essere inseriti facilmente nel portale https://dati.gov.it
 
+## Cosa modificare
+
+* inserire una licenza corretta nel file LICENSE
+* inserire la descrizione corretta nel file datapackage.yaml, eventualmente utilizzando come base il file ottenuto con il comando `frictionless describe`
+* inserire i dati mancanti all'interno della directory metadata
